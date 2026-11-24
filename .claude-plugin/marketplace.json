@@ -2,7 +2,7 @@
   "name": "lucius-ai",
   "description": "The Lucius plugin for Claude: public tender search and tender pack analysis for bid teams.",
   "owner": {
-    "name": "Lucius AI",
+    "name": "Lucius AI Systems, Inc.",
     "url": "https://ailucius.com"
   },
   "plugins": [
