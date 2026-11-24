@@ -1,0 +1,15 @@
+{
+  "name": "lucius-ai",
+  "description": "The Lucius plugin for Claude: public tender search and tender pack analysis for bid teams.",
+  "owner": {
+    "name": "Lucius AI",
+    "url": "https://ailucius.com"
+  },
+  "plugins": [
+    {
+      "name": "lucius",
+      "source": "./",
+      "description": "Find tenders, read tender packs, and get the bid call with the deciding requirements quoted from the pack with document and page."
+    }
+  ]
+}

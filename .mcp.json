@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "lucius": {
+      "type": "http",
+      "url": "https://api.ailucius.com/api/v1/mcp"
+    }
+  }
+}

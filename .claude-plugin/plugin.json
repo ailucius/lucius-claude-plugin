@@ -1,0 +1,29 @@
+{
+  "name": "lucius",
+  "displayName": "Lucius",
+  "version": "0.1.0",
+  "description": "Public tender intelligence for bid teams: find tenders, read tender packs, and get the bid call with the deciding requirements quoted from the pack with document and page. Then turn the analysis into an Excel compliance matrix, a price schedule sheet, a Word response outline, a list of evidence from SharePoint or OneDrive, and a clarification email draft. Works with your own Lucius workspace through the Lucius connector.",
+  "author": {
+    "name": "Lucius AI",
+    "email": "contact@ailucius.com",
+    "url": "https://ailucius.com"
+  },
+  "homepage": "https://ailucius.com/developers",
+  "repository": "https://github.com/ailucius/lucius-claude-plugin",
+  "license": "MIT",
+  "keywords": [
+    "tenders",
+    "public procurement",
+    "bid management",
+    "compliance matrix",
+    "RFP",
+    "Excel",
+    "Word",
+    "Microsoft 365"
+  ],
+  "icon": "./icon.png",
+  "documentationUrl": "https://ailucius.com/developers",
+  "supportUrl": "https://ailucius.com/contact",
+  "privacyPolicyUrl": "https://ailucius.com/privacy",
+  "termsOfServiceUrl": "https://ailucius.com/terms"
+}
